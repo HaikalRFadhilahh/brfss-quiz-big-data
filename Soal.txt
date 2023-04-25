@@ -1,0 +1,5 @@
+1. Berapakah Jumlah baris dan kolom dari data set tersebut?
+2. Ada berapa baris data untuk usia 27 tahun? numerik?
+3. ada berapa jenis income dari dataset tersebut?
+4. Berapakah perbandingan (presentase) jumlah laki-laki dan perempuan
+5. Ada berapa data outlier dari variabel Height(HTM4) dari dataset di atas? Gunakan Rumus di pertemuan minggu lalu mencari nilai outliers (Numerik)
